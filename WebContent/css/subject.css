@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.subject {
+	margin-top: 10px;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 6px;
+}
+
+.choice {
+	height: 30px;
+	line-height: 30px;
+	padding-left: 15px;
+}
+
+.rdo{
+	display: inline-block;
+	margin-right: 10px;
+	margin-top:3px;
+}
+.input{
+	width: 200px;
+}

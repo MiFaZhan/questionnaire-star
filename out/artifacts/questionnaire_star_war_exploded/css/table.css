@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.cztable {
+	padding: 15px 0;
+}
+
+.cztable table {
+	border-bottom: #ffffff solid 1px;
+	border-right: #ffffff solid 1px;
+}
+
+.cztable td, .cztable th {
+	border-top: #ffffff solid 1px;
+	border-left: #ffffff solid 1px;
+	padding: 6px 5px;
+}
+
+.cztable th {
+	background: #d7e4ec;
+	line-height: 22px;
+	color: #185697;
+}

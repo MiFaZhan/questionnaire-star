@@ -48,7 +48,13 @@
 
 ## 快速开始
 
-### 数据库初始化
+一、下载压缩包文件
+
+https://github.com/MiFaZhan/questionnaire-star/releases
+
+二、导入项目并配置Tomcat
+
+三、数据库初始化
 1. 执行SQL脚本：
 ```
 mysql> source WebContent/questionnaire.sql
@@ -60,9 +66,8 @@ url=jdbc:mysql://localhost:3306/questionnaire
 username=your_username
 password=your_password
 ```
-3. 添加Tomcat服务器依赖
 
-4. 运行示例
+### 运行示例
 ![image](https://github.com/user-attachments/assets/060937b7-bdb6-4973-9dc5-792ccee43e8a)
 
       

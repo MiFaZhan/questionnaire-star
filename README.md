@@ -69,6 +69,7 @@ password=your_password
 ![image](https://github.com/user-attachments/assets/e723a21e-2dca-462e-afcb-6e0c4be5bd30)
 
 ## 核心组件说明
+```
 src/
 ├── com.qst
 │   ├── dao         # 数据访问层
@@ -81,3 +82,4 @@ WebContent/
 ├── css            # 样式文件
 ├── js             # 脚本文件
 └── questionnaire_list.jsp  # 问卷列表页
+```
